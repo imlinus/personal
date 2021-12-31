@@ -48,6 +48,25 @@ pre {
   font-family: 'JetBrains Mono', monospace;
 }
 
+.subtitle {
+  color: #ffa801;
+}
+
 .grey {
   color: #999;
+}
+
+.fingerprint {
+  color: #999;
+}
+
+.fingerprint a,
+.fingerprint a:visited {
+  color: #999;
+}
+
+.fingerprint a:hover {
+  cursor: pointer;
+  color: #888;
+  text-decoration: none;
 }
