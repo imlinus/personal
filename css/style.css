@@ -41,7 +41,7 @@ body {
 .wrapper {
   width: 80%;
   max-width: 75ch;
-  margin: 4rem auto;
+  margin: 4rem;
 }
 
 pre {
