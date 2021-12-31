@@ -1,36 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
-:root, [theme='default'] {
-  --html-bg: #0d1117;
-  --html-bg-accent: #161c24;
 
-  --background: #0d1117;
-  --color: white;
-
-  --link-color: #3867d6;
-  --link-hover-color: #4b7bec;
-  --link-visited-color: #8854d0;
-}
-
-/* Links */
 a {
-  color: var(--link-color);
+  color: #575fcf;
   text-decoration: none;
 }
 
 a:hover {
   cursor: pointer;
-  color: var(--link-hover-color);
+  color: #4bcffa;
   text-decoration: underline;
 }
 
 a:visited {
-  color: var(--link-visited-color);
+  color: #8854d0;
   text-decoration: none;
 }
 
 body {
-  background: #0d1117;
-  color: white;
+  background: #1e272e;
+  color: #d2dae2;
   line-height: 1.5;
 }
 
@@ -53,20 +41,20 @@ pre {
 }
 
 .grey {
-  color: #999;
+  color: #808e9b;
 }
 
 .fingerprint {
-  color: #999;
+  color: #808e9b;
 }
 
 .fingerprint a,
 .fingerprint a:visited {
-  color: #999;
+  color: #808e9b;
 }
 
 .fingerprint a:hover {
   cursor: pointer;
-  color: #888;
+  color: #d2dae2;
   text-decoration: none;
 }
