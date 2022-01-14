@@ -20,16 +20,13 @@ body {
   background: #1e272e;
   color: #d2dae2;
   line-height: 1.5;
-}
-
-.logo {
-  line-height: 1;
-}
-
-.wrapper {
   width: 80%;
   max-width: 75ch;
   margin: 4rem;
+}
+
+.logotype {
+  line-height: 1;
 }
 
 pre {
